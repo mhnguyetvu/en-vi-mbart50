@@ -1,0 +1,18 @@
+# Core packages
+transformers==4.39.3
+datasets==2.19.1
+evaluate==0.4.1
+accelerate==0.28.0
+
+# For training and mixed precision
+torch==2.1.2
+sentencepiece==0.1.99
+sacremoses==0.0.53
+fastapi
+# Visualization
+matplotlib==3.8.4
+tensorboard
+# Misc
+tqdm==4.66.2
+numpy==1.26.4
+PyYAML==6.0.1
